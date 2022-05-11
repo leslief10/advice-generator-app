@@ -33,7 +33,7 @@ main {
 
 .adviceContainer {
   position: relative;
-  justify-content: flex-start;
+  justify-content: center;
   align-items: center;
   width: 34.3rem;
   min-height: 31.5rem;
